@@ -1,2 +1,1 @@
-# LeoGameUtility
-This is utilities for game 
+This is test package manager.
